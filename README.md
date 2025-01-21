@@ -38,13 +38,11 @@
 <br />
 
 
-<details>
   <summary>:zap: Github Stats</summary>
 
   [![SadiaChaan's github stats](https://github-readme-stats.vercel.app/api?username=sadiachaan)](https://github.com/sadiachaan)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiachaan&layout=compact&theme=radical)
 
-</details>
 
 <br>
 
