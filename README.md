@@ -1,6 +1,5 @@
 ### Hi there, I'm Sadia  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sinkbackend?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinkbackend&screen_name=sinkbackend)
 
 ## I'm a Software engineer!
 -    I'm currently learning advance Java and Kotlin and gRPC framework. I am obsessed with real time systems and concurrent systems.
