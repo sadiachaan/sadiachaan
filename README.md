@@ -1,11 +1,11 @@
 ### Hi there, I'm Sadia  👋
 
 
-## I'm a Software engineer!
--    I'm currently learning advance Java and Kotlin and gRPC framework. I am obsessed with real time systems and concurrent systems.
-- 🌱 I’m currently learning everything in order to get my goal. 🤣
-- 🥅 2025 Goals: Learn more japanese language, Learn more advance Java and kotlin and contribute to my company in their success.🎆
-- ⚡ Fun fact: I love to speak, listen, watch and read japanese and singing / writing (poems) ;
+## I'm a Software engineer with 2 Years of Exp!
+- ⚡ I am currently diving into AWS ☁️ and the Angular framework 🔥 to enhance my development skills
+- 🌱 I am passionate about continuously exploring and learning new technologies.
+- 🥅 2025 Goals: Embark on a journey to master the Japanese language 🇯🇵 and explore cutting-edge technologies 💻 to broaden my skill set. 🌸🚀
+
 
 ### Connect with me:
 
