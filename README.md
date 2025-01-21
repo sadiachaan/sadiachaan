@@ -36,13 +36,15 @@
 
 <br />
 <br />
+## ⚡ Github Stats
 
-  <summary>⚡ Github Stats</summary>
+<br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sadiachaan&show_icons=true&theme=radical" alt="SadiaChaan's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiachaan&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiachaan&show_icons=true&theme=radical" alt="SadiaChaan's GitHub Stats" />
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiachaan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
 
