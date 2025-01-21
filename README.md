@@ -46,12 +46,12 @@
 </details>
 
 <br>
-
 <a href="https://github.com/sadiachaan/my-github-stats">
-
-![](https://github.com/sadiachaan/my-github-stats/blob/master/generated/overview.svg)
-![](https://github.com/sadiachaan/my-github-stats/blob/master/generated/languages.svg)
+  
+![](https://github.com/sadiachaan/my-github-stats/blob/main/generated/overview.svg)
+![](https://github.com/sadiachaan/my-github-stats/blob/main/generated/languages.svg)
 
 </a>
+
 
 [linkedin]: https://www.linkedin.com/in/sadiar037/
