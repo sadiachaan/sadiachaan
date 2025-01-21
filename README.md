@@ -37,11 +37,16 @@
 <br />
 <br />
 
+<details>
+  <summary>⚡ Github Stats</summary>
 
-  <summary>:zap: Github Stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sadiachaan&show_icons=true&theme=radical" alt="SadiaChaan's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiachaan&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
 
-  [![SadiaChaan's github stats](https://github-readme-stats.vercel.app/api?username=sadiachaan)](https://github.com/sadiachaan)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiachaan&layout=compact&theme=radical)
+</details>
+
 
 
 <br>
