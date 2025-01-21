@@ -45,4 +45,3 @@
   [![SadiaChaan's github stats](https://github-readme-stats.vercel.app/api?username=sadiachaan)](https://github.com/sadiachaan)
 
 </details>
-[linkedin]: https://www.linkedin.com/in/sadiar037/
